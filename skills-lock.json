@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "build-game-map-editor": {
+      "source": "mengto/skills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/game-development/build-game-map-editor/SKILL.md",
+      "computedHash": "dde16def26ccf2be518a78c48be0bbdb1e782f94d1a993c427ef55c276aa8a37"
+    },
+    "build-mobile-threejs-games": {
+      "source": "mengto/skills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/game-development/build-mobile-threejs-games/SKILL.md",
+      "computedHash": "69612c2fa511323ae867262ac69189764bd4de756674837095a44216f45adc56"
+    },
+    "optimize-threejs-games": {
+      "source": "mengto/skills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/game-development/optimize-threejs-games/SKILL.md",
+      "computedHash": "c4e92fe1a580f0c204b284b27bcb083011fdee9a3569a30a3b80c93c5b3ff478"
+    },
+    "threejs-aaa-graphics-builder": {
+      "source": "majidmanzarpour/threejs-game-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-aaa-graphics-builder/SKILL.md",
+      "computedHash": "5168e4b1d40dd0f7163a5319fa4a29194a495fcf8a7fe1298212a2a24224466d"
+    },
+    "threejs-game-director": {
+      "source": "majidmanzarpour/threejs-game-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-game-director/SKILL.md",
+      "computedHash": "b90cc06d12ae8b3e917b98250eb6668f1c9bd893a7620e80ac15109eaf69a638"
+    }
+  }
+}

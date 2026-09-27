@@ -1,0 +1,8 @@
+[
+  {"id":"roof","kind":"texture","path":"/assets/clay_roof_tiles_02_diff_1k.jpg","critical":true,"source":"https://polyhaven.com/a/clay_roof_tiles_02","author":"Poly Haven","license":"CC0","version":"1k JPG","processing":"color map, tiled on roof"},
+  {"id":"roofNormal","kind":"texture","path":"/assets/clay_roof_tiles_02_nor_gl_1k.jpg","critical":false,"source":"https://polyhaven.com/a/clay_roof_tiles_02","author":"Poly Haven","license":"CC0","version":"1k JPG","processing":"OpenGL normal map"},
+  {"id":"plaster","kind":"texture","path":"/assets/clay_plaster_diff_1k.jpg","critical":true,"source":"https://polyhaven.com/a/clay_plaster","author":"Poly Haven","license":"CC0","version":"1k JPG","processing":"color map, tiled on walls"},
+  {"id":"plasterNormal","kind":"texture","path":"/assets/clay_plaster_nor_gl_1k.jpg","critical":false,"source":"https://polyhaven.com/a/clay_plaster","author":"Poly Haven","license":"CC0","version":"1k JPG","processing":"OpenGL normal map"},
+  {"id":"timber","kind":"texture","path":"/assets/oak_wood_planks_diff_1k.jpg","critical":true,"source":"https://polyhaven.com/a/oak_wood_planks","author":"Poly Haven","license":"CC0","version":"1k JPG","processing":"color map, dock and floor"},
+  {"id":"timberNormal","kind":"texture","path":"/assets/oak_wood_planks_nor_gl_1k.jpg","critical":false,"source":"https://polyhaven.com/a/oak_wood_planks","author":"Poly Haven","license":"CC0","version":"1k JPG","processing":"OpenGL normal map"}
+]
